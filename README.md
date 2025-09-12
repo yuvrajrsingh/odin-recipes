@@ -1,0 +1,1 @@
+This is basic HTML like headings and paragraphs, links and images, lists, etc.
