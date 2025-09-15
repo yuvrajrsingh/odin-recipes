@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(47, 47, 47);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.homepage-heading {
+    text-align: center;
+    font-size: 75px;
+    text-decoration: underline;
+    color: rgb(185, 185, 185);
+    margin-top: 50px;
+}
+
+.homepage-list li {
+    text-align: center;
+    margin: 10px;
+}
+
+.homepage-list a {
+    text-decoration: none;
+    font-size: large;
+    color: rgb(185, 185, 185);
+}
+
+.homepage-list a:hover {
+    cursor: pointer;
+    color: rgb(0, 126, 149);
+    font-weight: 900;
+}
+
+.homepage-list {
+    margin-top: 200px;
+}
+
+.lasagna-home-icon{
+    color : black;
+    margin: 10px;
+    font-size : 3rem;
+    display: inline-block;
+    width: 5vw;
+}
+
+.lasagna-homepage {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color: rgb(185, 185, 185);
+    display: inline-block;
+    width: 85vw;
+}
+
+.lasagna-image {
+    display: block;
+    margin: 20px auto;
+    box-shadow: 5px 5px black;
+}
+
+.lasagna-description {
+    margin-left: 25px;
+    color: rgb(185, 185, 185);
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.lasagna-para {
+    color: white;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.lasagna-ingredients {
+    margin-left: 25px;
+    margin-top: 20px;
+    color: rgb(185, 185, 185);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.lasagna-ingredients-list {
+    margin-top: 10px;
+    margin-left: 35px;
+    color: white;
+}
+
+.lasagna-steps {
+    margin-left: 25px;
+    margin-top: 20px;
+    color: rgb(185, 185, 185);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.lasagna-steps-list {
+    margin-top: 10px;
+    margin-left: 35px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.jumbo-home-icon{
+    color : black;
+    margin: 10px;
+    font-size : 3rem;
+    display: inline-block;
+    width: 5vw;
+}
+
+.jumbo-homepage {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color: rgb(185, 185, 185);
+    display: inline-block;
+    width: 85vw;
+}
+
+.jumbo-image {
+    display: block;
+    margin: 20px auto;
+    box-shadow: 5px 5px black;
+}
+
+.jumbo-description {
+    margin-left: 25px;
+    color: rgb(185, 185, 185);
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.jumbo-para {
+    color: white;
+    margin-left: 25px;
+    margin-top: 10px;
+}
